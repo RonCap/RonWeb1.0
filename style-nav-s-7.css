@@ -61,6 +61,9 @@ p {
 
 .greeting{
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
 }
 
 li>a {
