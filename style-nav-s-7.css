@@ -59,6 +59,10 @@ p {
     align-items: center;
     }
 
+.greeting{
+    text-align: center;
+}
+
 li>a {
     padding: 8px 24px;
     }
